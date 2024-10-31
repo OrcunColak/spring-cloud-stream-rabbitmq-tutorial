@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.4</version>
+        <version>3.3.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.colak</groupId>
@@ -14,8 +14,8 @@
     <name>spring-cloud-stream-rabbitmq-tutorial</name>
     <description>Demo project for Spring Boot</description>
     <properties>
-        <java.version>22</java.version>
-        <spring-cloud.version>2023.0.1</spring-cloud.version>
+        <java.version>23</java.version>
+        <spring-cloud.version>2023.0.3</spring-cloud.version>
     </properties>
 
     <build>
